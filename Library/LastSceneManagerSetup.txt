@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Default.unity
+- path: C:/Users/oscarespejosagues/Desktop/ENEMY_IA/Assets/IA_Enemy.unity
   isLoaded: 1
   isActive: 1
