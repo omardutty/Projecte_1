@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -61,12 +61,10 @@ public class PlayerEnemy : MonoBehaviour {
     }
 
     private void Moviments(float horizontal) {
-
-
-        myRigidbody.velocity = new Vector2(horizontal*movSpeed, myRigidbody.velocity.y);
-
+  
+        myRigidbody.velocity = new Vector2(horizontal * movSpeed, myRigidbody.velocity.y);
         myAnimator.SetFloat("Speed", Mathf.Abs(horizontal));
-
+      
         if (isGrownded && jump)
         {
             isGrownded = false;
@@ -79,10 +77,18 @@ public class PlayerEnemy : MonoBehaviour {
 
     private void HandleInput()
     {
-        if (Input.GetKeyDown(KeyCode.Space)){
+        if (Input.GetKeyDown(KeyCode.W)){
             jump = true; 
         }
-
+        if (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.RightShift))
+        {
+            myAnimator.SetBool("agachado", true);
+            myRigidbody.velocity = new Vector2(0 * movSpeed, myRigidbody.velocity.y);
+        }
+        if(Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.RightShift))
+        {
+            myAnimator.SetBool("agachado", false);
+        }
 
     }
     private void Flip(float horizontal)
