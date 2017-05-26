@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 6654d6729bede204aa31805c8db1c661
+timeCreated: 1491984974
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Pieza Ca\xF1on_0"
+    21300002: "Pieza Ca\xF1on_1"
+    21300004: "Pieza Ca\xF1on_2"
+    21300006: "Pieza Ca\xF1on_3"
+    21300008: "Pieza Ca\xF1on_4"
+    21300010: "Pieza Ca\xF1on_5"
+    21300012: "Pieza Ca\xF1on_6"
+    21300014: "Pieza Ca\xF1on_7"
+    21300016: "Pieza Ca\xF1on_8"
+    21300018: "Pieza Ca\xF1on_9"
+    21300020: "Pieza Ca\xF1on_10"
+    21300022: "Pieza Ca\xF1on_11"
+    21300024: "Pieza Ca\xF1on_12"
+    21300026: "Pieza Ca\xF1on_13"
+    21300028: "Pieza Ca\xF1on_14"
+    21300030: "Pieza Ca\xF1on_15"
+    21300032: "Pieza Ca\xF1on_16"
+    21300034: "Pieza Ca\xF1on_17"
+    21300036: "Pieza Ca\xF1on_18"
+    21300038: "Pieza Ca\xF1on_19"
+    21300040: "Pieza Ca\xF1on_20"
+    21300042: "Pieza Ca\xF1on_21"
+    21300044: "Pieza Ca\xF1on_22"
+    21300046: "Pieza Ca\xF1on_23"
+    21300048: "Pieza Ca\xF1on_24"
+    21300050: "Pieza Ca\xF1on_25"
+    21300052: "Pieza Ca\xF1on_26"
+    21300054: "Pieza Ca\xF1on_27"
+    21300056: "Pieza Ca\xF1on_28"
+    21300058: "Pieza Ca\xF1on_29"
+    21300060: "Pieza Ca\xF1on_30"
+    21300062: "Pieza Ca\xF1on_31"
+    21300064: "Pieza Ca\xF1on_32"
+    21300066: "Pieza Ca\xF1on_33"
+    21300068: "Pieza Ca\xF1on_34"
+    21300070: "Pieza Ca\xF1on_35"
+    21300072: "Pieza Ca\xF1on_36"
+    21300074: "Pieza Ca\xF1on_37"
+    21300076: "Pieza Ca\xF1on_38"
+    21300078: "Pieza Ca\xF1on_39"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_0"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7569
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_1"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 7569
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_2"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 7569
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_3"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 7569
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_4"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 7569
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_5"
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 7569
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_6"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6307
+        width: 1175
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_7"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 6307
+        width: 1171
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_8"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 6307
+        width: 1175
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_9"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 6307
+        width: 1171
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_10"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 6307
+        width: 1175
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_11"
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 6307
+        width: 1171
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_12"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5050
+        width: 1175
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_13"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 5050
+        width: 1171
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_14"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 5050
+        width: 1175
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_15"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 5050
+        width: 1171
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_16"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 5050
+        width: 1175
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_17"
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 5050
+        width: 1171
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_18"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3788
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_19"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3788
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_20"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3788
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_21"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3788
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_22"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 3788
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_23"
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 3788
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_24"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2530
+        width: 1175
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_25"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2530
+        width: 1171
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_26"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2530
+        width: 1175
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_27"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2530
+        width: 1171
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_28"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 2530
+        width: 1175
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_29"
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 2530
+        width: 1171
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_30"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1268
+        width: 1175
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_31"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1268
+        width: 1171
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_32"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1268
+        width: 1175
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_33"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1268
+        width: 1171
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_34"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 1268
+        width: 1175
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_35"
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 1268
+        width: 1171
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_36"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_37"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 7
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_38"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 7
+        width: 1175
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Pieza Ca\xF1on_39"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 7
+        width: 1171
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

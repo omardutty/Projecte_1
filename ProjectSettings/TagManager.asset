@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - recoger
+  - Jugador
+  - Bala
+  - escenari
+  - Enemy
+  - impacto
+  - Enemy1
+  - FOG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - fov
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 2173940703
+    locked: 0
+  - name: OBJinteractuables
+    uniqueID: 823511293
+    locked: 0
+  - name: Player
+    uniqueID: 535566681
+    locked: 0
+  - name: ObjetosOcultacion
+    uniqueID: 332161681
+    locked: 0
+  - name: HUD
+    uniqueID: 1761028531
+    locked: 0
+  - name: Enemys
+    uniqueID: 1687291971
+    locked: 0
