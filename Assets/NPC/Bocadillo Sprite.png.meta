@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: e3205c0b8310900408dbe25364900090
+timeCreated: 1493971780
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bocadillo Sprite_0
+    21300002: Bocadillo Sprite_1
+    21300004: Bocadillo Sprite_2
+    21300006: Bocadillo Sprite_3
+    21300008: Bocadillo Sprite_4
+    21300010: Bocadillo Sprite_5
+    21300012: Bocadillo Sprite_6
+    21300014: Bocadillo Sprite_7
+    21300016: Bocadillo Sprite_8
+    21300018: Bocadillo Sprite_9
+    21300020: Bocadillo Sprite_10
+    21300022: Bocadillo Sprite_11
+    21300024: Bocadillo Sprite_12
+    21300026: Bocadillo Sprite_13
+    21300028: Bocadillo Sprite_14
+    21300030: Bocadillo Sprite_15
+    21300032: Bocadillo Sprite_16
+    21300034: Bocadillo Sprite_17
+    21300036: Bocadillo Sprite_18
+    21300038: Bocadillo Sprite_19
+    21300040: Bocadillo Sprite_20
+    21300042: Bocadillo Sprite_21
+    21300044: Bocadillo Sprite_22
+    21300046: Bocadillo Sprite_23
+    21300048: Bocadillo Sprite_24
+    21300050: Bocadillo Sprite_25
+    21300052: Bocadillo Sprite_26
+    21300054: Bocadillo Sprite_27
+    21300056: Bocadillo Sprite_28
+    21300058: Bocadillo Sprite_29
+    21300060: Bocadillo Sprite_30
+    21300062: Bocadillo Sprite_31
+    21300064: Bocadillo Sprite_32
+    21300066: Bocadillo Sprite_33
+    21300068: Bocadillo Sprite_34
+    21300070: Bocadillo Sprite_35
+    21300072: Bocadillo Sprite_36
+    21300074: Bocadillo Sprite_37
+    21300076: Bocadillo Sprite_38
+    21300078: Bocadillo Sprite_39
+    21300080: Bocadillo Sprite_40
+    21300082: Bocadillo Sprite_41
+    21300084: Bocadillo Sprite_42
+    21300086: Bocadillo Sprite_43
+    21300088: Bocadillo Sprite_44
+    21300090: Bocadillo Sprite_45
+    21300092: Bocadillo Sprite_46
+    21300094: Bocadillo Sprite_47
+    21300096: Bocadillo Sprite_48
+    21300098: Bocadillo Sprite_49
+    21300100: Bocadillo Sprite_50
+    21300102: Bocadillo Sprite_51
+    21300104: Bocadillo Sprite_52
+    21300106: Bocadillo Sprite_53
+    21300108: Bocadillo Sprite_54
+    21300110: Bocadillo Sprite_55
+    21300112: Bocadillo Sprite_56
+    21300114: Bocadillo Sprite_57
+    21300116: Bocadillo Sprite_58
+    21300118: Bocadillo Sprite_59
+    21300120: Bocadillo Sprite_60
+    21300122: Bocadillo Sprite_61
+    21300124: Bocadillo Sprite_62
+    21300126: Bocadillo Sprite_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bocadillo Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 11822
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 10142
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 8462
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 6782
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 5102
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 3422
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 1742
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bocadillo Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 11796
+        y: 62
+        width: 1608
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

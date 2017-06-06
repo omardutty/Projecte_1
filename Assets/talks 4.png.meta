@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: f68c5e84cb605204e95e27309f664d76
+timeCreated: 1496760112
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: talks 4_0
+    21300002: talks 4_1
+    21300004: talks 4_2
+    21300006: talks 4_3
+    21300008: talks 4_4
+    21300010: talks 4_5
+    21300012: talks 4_6
+    21300014: talks 4_7
+    21300016: talks 4_8
+    21300018: talks 4_9
+    21300020: talks 4_10
+    21300022: talks 4_11
+    21300024: talks 4_12
+    21300026: talks 4_13
+    21300028: talks 4_14
+    21300030: talks 4_15
+    21300032: talks 4_16
+    21300034: talks 4_17
+    21300036: talks 4_18
+    21300038: talks 4_19
+    21300040: talks 4_20
+    21300042: talks 4_21
+    21300044: talks 4_22
+    21300046: talks 4_23
+    21300048: talks 4_24
+    21300050: talks 4_25
+    21300052: talks 4_26
+    21300054: talks 4_27
+    21300056: talks 4_28
+    21300058: talks 4_29
+    21300060: talks 4_30
+    21300062: talks 4_31
+    21300064: talks 4_32
+    21300066: talks 4_33
+    21300068: talks 4_34
+    21300070: talks 4_35
+    21300072: talks 4_36
+    21300074: talks 4_37
+    21300076: talks 4_38
+    21300078: talks 4_39
+    21300080: talks 4_40
+    21300082: talks 4_41
+    21300084: talks 4_42
+    21300086: talks 4_43
+    21300088: talks 4_44
+    21300090: talks 4_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: talks 4_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10144
+        width: 1612
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_1
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 10144
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_2
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 10144
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_3
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 10144
+        width: 1614
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_4
+      rect:
+        serializedVersion: 2
+        x: 6753
+        y: 10144
+        width: 1610
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_5
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 10144
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_6
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 10144
+        width: 1612
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8461
+        width: 1612
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_8
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 8461
+        width: 1613
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_9
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 8461
+        width: 1607
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_10
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 8461
+        width: 1614
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_11
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 8461
+        width: 1607
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_12
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 8461
+        width: 1613
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_13
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 8461
+        width: 1612
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6784
+        width: 1632
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_15
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 6784
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_16
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 6784
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_17
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 6784
+        width: 1614
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_18
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 6784
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_19
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 6784
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_20
+      rect:
+        serializedVersion: 2
+        x: 10107
+        y: 6784
+        width: 1630
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5098
+        width: 1632
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_22
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 5102
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_23
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 5102
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_24
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 5099
+        width: 1614
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_25
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 5102
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_26
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 5102
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_27
+      rect:
+        serializedVersion: 2
+        x: 10105
+        y: 5098
+        width: 1632
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3423
+        width: 1630
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_29
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 3425
+        width: 1613
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_30
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 3425
+        width: 1607
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_31
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 3425
+        width: 1614
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_32
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 3425
+        width: 1607
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_33
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 3425
+        width: 1613
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_34
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 3423
+        width: 1622
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1743
+        width: 1630
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_36
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1743
+        width: 1618
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_37
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1743
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_38
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 1743
+        width: 1614
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_39
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 1743
+        width: 1607
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_40
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 1743
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_41
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 1743
+        width: 1622
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 61
+        width: 1622
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_43
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 61
+        width: 1613
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_44
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 61
+        width: 1607
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: talks 4_45
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 61
+        width: 1614
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

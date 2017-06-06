@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: ccc5bef94a1d80d4a9473a74162960b1
+timeCreated: 1494865455
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Botiquin_0
+    21300002: Botiquin_1
+    21300004: Botiquin_2
+    21300006: Botiquin_3
+    21300008: Botiquin_4
+    21300010: Botiquin_5
+    21300012: Botiquin_6
+    21300014: Botiquin_7
+    21300016: Botiquin_8
+    21300018: Botiquin_9
+    21300020: Botiquin_10
+    21300022: Botiquin_11
+    21300024: Botiquin_12
+    21300026: Botiquin_13
+    21300028: Botiquin_14
+    21300030: Botiquin_15
+    21300032: Botiquin_16
+    21300034: Botiquin_17
+    21300036: Botiquin_18
+    21300038: Botiquin_19
+    21300040: Botiquin_20
+    21300042: Botiquin_21
+    21300044: Botiquin_22
+    21300046: Botiquin_23
+    21300048: Botiquin_24
+    21300050: Botiquin_25
+    21300052: Botiquin_26
+    21300054: Botiquin_27
+    21300056: Botiquin_28
+    21300058: Botiquin_29
+    21300060: Botiquin_30
+    21300062: Botiquin_31
+    21300064: Botiquin_32
+    21300066: Botiquin_33
+    21300068: Botiquin_34
+    21300070: Botiquin_35
+    21300072: Botiquin_36
+    21300074: Botiquin_37
+    21300076: Botiquin_38
+    21300078: Botiquin_39
+    21300080: Botiquin_40
+    21300082: Botiquin_41
+    21300084: Botiquin_42
+    21300086: Botiquin_43
+    21300088: Botiquin_44
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botiquin_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8410
+        width: 1368
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_1
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 8410
+        width: 1368
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_2
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 8410
+        width: 1373
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_3
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 8410
+        width: 1368
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_4
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 8410
+        width: 1373
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_5
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 8410
+        width: 1369
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_6
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 8410
+        width: 1373
+        height: 1268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7008
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 7008
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_9
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 7004
+        width: 1380
+        height: 1285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_10
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 7008
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_11
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 7008
+        width: 1373
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_12
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 7008
+        width: 1369
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_13
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 7004
+        width: 1380
+        height: 1285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5606
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_15
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 5606
+        width: 1372
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_16
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 5606
+        width: 1373
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_17
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 5606
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_18
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 5606
+        width: 1373
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_19
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 5606
+        width: 1369
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_20
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 5606
+        width: 1380
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4209
+        width: 1368
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_22
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 4209
+        width: 1368
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_23
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 4209
+        width: 1373
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_24
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 4209
+        width: 1368
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_25
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 4209
+        width: 1373
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_26
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 4209
+        width: 1369
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_27
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 4209
+        width: 1373
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2807
+        width: 1368
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_29
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2807
+        width: 1368
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_30
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2807
+        width: 1380
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_31
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 2807
+        width: 1368
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_32
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 2807
+        width: 1373
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_33
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 2807
+        width: 1369
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_34
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 2807
+        width: 1373
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1409
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_36
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1409
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_37
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1409
+        width: 1373
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_38
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 1409
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_39
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 1409
+        width: 1373
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_40
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 1409
+        width: 1369
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_41
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 1409
+        width: 1380
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 1368
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_43
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 1372
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Botiquin_44
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 0
+        width: 1380
+        height: 1284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
